@@ -25,7 +25,7 @@ function Header() {
       <div className="flex shadow-lg fixed bg-white items-center w-screen justify-between border-b-[1px] h-[60px]">
         <div className="w-[100px] h-[100px] flex justify-center items-center">
           <img
-            src="public/loogo2.png"
+            src="/loogo2.png"
             className="p-7 "
             alt="Logo"
             // style={{ width: "10px", height: "10px" }}
