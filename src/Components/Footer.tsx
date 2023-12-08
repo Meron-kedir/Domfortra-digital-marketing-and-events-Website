@@ -11,7 +11,7 @@ function Footer() {
                 <div className="mb-6 md:mb-0">
                   <a href="/loogo2.png" className="flex items-center">
                     <img
-                      src="public/Group 1000003637 (1).png"
+                      src="/Group 1000003637 (1).png"
                       className="h-8 mr-3 "
                       alt="company Logo"
                       style={{ width: "80px", height: "80px" }}
