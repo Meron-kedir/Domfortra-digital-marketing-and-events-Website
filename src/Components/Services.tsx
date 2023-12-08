@@ -7,28 +7,28 @@ function Services() {
   //       title: "Digital Marketing Strategy",
   //       description:
   //         "We develop customized digital marketing strategies tailored to your business goals, ensuring maximum impact and ROI.",
-  //       logo: "/digital-marketing1.jpg",
+  //       logo: "public/digital-marketing1.jpg",
   //     },
   //     {
   //       id: 2,
   //       title: "Search Engine Optimization",
   //       description:
   //         "Improve your website's visibility on search engines with our SEO services, increasing organic traffic and driving conversions.",
-  //       logo: "/google2.gif",
+  //       logo: "public/google2.gif",
   //     },
   //     {
   //       id: 3,
   //       title: "Social Media Marketing",
   //       description:
   //         "Engage,connect and expand your audience through effective social media marketing strategies that drive brand awareness and loyalty.",
-  //       logo: "/socialmedia3.jpg",
+  //       logo: "public/socialmedia3.jpg",
   //     },
   //     {
   //       id: 4,
   //       title: "Content Marketing",
   //       description:
   //         "Create compelling and relevant content that resonates with your target audience, establishing thought leadership and increasing brand credibility.",
-  //       logo: "/contentmarket4.jpg",
+  //       logo: "public/contentmarket4.jpg",
   //     },
   //   ];
   return (
@@ -48,7 +48,7 @@ function Services() {
           <a href="#">
             <img
               className="rounded-t-lg shadow-md h-[200x]"
-              src=/digital-marketing1.jpg"
+              src="/digital-marketing1.jpg"
               alt="image1"
             />
           </a>
@@ -71,7 +71,7 @@ function Services() {
           <a href="#">
             <img
               className="rounded-t-lg shadow-md h-[290px]"
-              src=/google2.gif"
+              src="/google2.gif"
               alt="image1"
             />
           </a>
@@ -94,7 +94,7 @@ function Services() {
           <a href="#">
             <img
               className="rounded-t-lg shadow-md h-[290px]"
-              src=/socialmedia3.jpg"
+              src="/socialmedia3.jpg"
               alt="product image"
             />
           </a>
@@ -117,7 +117,7 @@ function Services() {
           <a href="#">
             <img
               className="rounded-t-lg shadow-md h-[550x]"
-              src=/contentmarket4.jpg"
+              src="/contentmarket4.jpg"
               alt="image1"
             />
           </a>
