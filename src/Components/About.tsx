@@ -18,7 +18,7 @@ function About() {
       <div>
         <div className="flex flex-row items-end justify-end py-3">
           <img
-            src="public/hero-img.svg"
+            src="/hero-img.svg"
             alt="hero 2"
             style={{ width: "300px", height: "200px" }}
           />
