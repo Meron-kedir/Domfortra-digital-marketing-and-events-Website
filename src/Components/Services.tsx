@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { IoArrowForwardOutline } from "react-icons/io5";
 function Services() {
   //   const servicesList = [
